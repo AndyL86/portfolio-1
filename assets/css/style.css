@@ -36,6 +36,12 @@ body {
 
 /* headings and logo */
 
+#logo {
+    float: left;
+    font-size: 250%;
+    margin-left: 20px;
+}
+
 h1 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
@@ -44,3 +50,19 @@ h1 {
 }
 
 /* navigation links */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
