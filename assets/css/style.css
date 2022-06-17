@@ -64,5 +64,9 @@ h1 {
 #menu li {
     float: right;
     list-style-type: none;
-    margin-right: 10px;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
 }
