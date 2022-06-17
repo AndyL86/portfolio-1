@@ -33,3 +33,14 @@ body {
 #newsletter {
     background-color: #3f784c;
 }
+
+/* headings and logo */
+
+h1 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #fff;
+}
+
+/* navigation links */
